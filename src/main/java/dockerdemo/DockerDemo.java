@@ -19,7 +19,7 @@ public class DockerDemo {
    * @param args the command line arguments
    */
   public static void main(String[] args) throws Exception {
-    System.out.println("=== Hello from DockerPublic Image === [1]");
+    System.out.println("=== Hello from DockerPublic Image === [2]");
     /*
     if (args.length == 0) {
       System.out.println("Empty args list");
